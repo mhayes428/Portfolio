@@ -10,7 +10,7 @@ body {
     box-sizing: border-box;
   }
   
-  /* general */
+  
   
   .container {
     width: 100%;
@@ -50,7 +50,7 @@ body {
     font-size: 22px;
   }
   
-  /* header */
+  
   
   #masthead {
     position: fixed;
@@ -96,7 +96,7 @@ body {
     border-left: 0 none;
   }
   
-  /* footer */
+  
   
   footer {
     padding: 30px 0;
@@ -117,7 +117,7 @@ body {
     border-bottom: 2px solid #eeeeee;
   }
   
-  /* main */
+  
   
   #main-container {
     padding-top: 130px;
@@ -134,7 +134,7 @@ body {
     border: 1px solid #dddddd;
   }
   
-  /* portfolio page */
+  
   
   .work {
     position: relative;
@@ -176,7 +176,7 @@ body {
     margin-right: 25px;
   }
   
-  /* contact page */
+  
   
   #contact-form ul {
     margin-bottom: 20px;
