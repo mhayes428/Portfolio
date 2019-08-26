@@ -164,7 +164,7 @@ body {
     line-height: 30px;
     color: #ffffff;
     text-align: center;
-    background: #4aaaa5;
+    background: #264f81;
     border-bottom: 0;
   }
   
@@ -186,15 +186,15 @@ body {
     margin-bottom: 10px;
   }
   
-  label,
+  /* label,
   input[type=text],
   input[type=email],
   textarea {
     display: block;
     width: 100%;
   }
-  
-  input[type=text],
+   */
+  /* input[type=text],
   input[type=email],
   textarea {
     height: 35px;
@@ -205,16 +205,16 @@ body {
   
   textarea {
     height: 200px;
-  }
+  } */
   
-  input[type=submit] {
+  /* input[type=submit] {
     padding: 10px 30px;
     font-size: 18px;
     color: #ffffff;
     cursor: pointer;
     background: #264f81;
     border: 0 none;
-  }
+  } */
   
   @media screen and (max-width: 980px) {
   }

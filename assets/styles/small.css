@@ -186,7 +186,7 @@ body {
     margin-bottom: 10px;
   }
   
-  label,
+  /* label,
   input[type=text],
   input[type=email],
   textarea {
@@ -214,7 +214,7 @@ body {
     cursor: pointer;
     background: #264f81;
     border: 0 none;
-  }
+  } */
   
   @media screen and (max-width: 980px) {
   }
