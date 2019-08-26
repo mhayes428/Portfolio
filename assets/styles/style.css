@@ -118,7 +118,9 @@ body {
     border-bottom: 2px solid #eeeeee;
   }
   
-  
+  .jumbotron {
+    background-color: aliceblue;
+  }
   
   #main-container {
     padding-top: 130px;
@@ -178,7 +180,7 @@ body {
     margin-right: 25px;
   }
   
- 
+  
   
   #contact-form ul {
     margin-bottom: 20px;

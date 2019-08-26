@@ -134,7 +134,9 @@ body {
     border: 1px solid #dddddd;
   }
   
-  
+  .jumbotron {
+    background-color: aliceblue;
+  }
   
   .work {
     position: relative;
