@@ -8,9 +8,10 @@ body {
   
   * {
     box-sizing: border-box;
+    border-radius: 10px;
   }
   
-  /* general */
+ 
   
   .container {
     width: 100%;
